@@ -12,4 +12,4 @@ backend/\*\* @backend-team @user2
 
 # Assign README.md to a specific user
 
-README.md @nyakagwafred
+README.md @nyakagwafred @user1 @user2
