@@ -1,0 +1,15 @@
+# The default owner for everything in the repo
+
+- @nyakagwafred
+
+# Assign frontend files to the frontend team
+
+frontend/\*\* @frontend-team @user1
+
+# Assign backend files to the backend team
+
+backend/\*\* @backend-team @user2
+
+# Assign README.md to a specific user
+
+README.md @nyakagwafred
