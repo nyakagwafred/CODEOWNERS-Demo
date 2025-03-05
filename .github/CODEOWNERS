@@ -4,11 +4,11 @@
 
 # Assign frontend files to the frontend team
 
-frontend/\*\* @komolafetemitope14
+frontend/ @komolafetemitope14
 
 # Assign backend files to the backend team
 
-backend/\*\* @komolafetemitope14
+backend/ @komolafetemitope14
 
 # Assign README.md to a specific user
 
